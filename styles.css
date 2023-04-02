@@ -1,0 +1,59 @@
+@import url('https://fonts.googleapis.com/css2?family=Parisienne&display=swap');
+
+.navbar {
+  padding-left: 60px;
+  padding-right: 60px;
+}
+
+
+.col-md-4 {
+  top: 80px;
+  right: 80px;
+
+}
+
+body {
+  background-image: url("wallpaper.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  color: white;
+}
+
+#learn-more {
+  margin-top: 10px;
+  margin-left: 30px;
+  border-radius: 20px;
+  padding: 8px;
+  width: 200px;
+
+}
+
+#products {
+  text-align: center;
+  margin-top: 250px;
+  margin-left: 30px;
+  background-color: white;
+  color: black;
+  padding: 40px;
+  font-size: 80%;
+  margin-bottom: 50px;
+
+}
+
+.product-titl {
+  padding: 90px;
+}
+
+.product-info {
+  word-wrap: break-word;
+}
+
+p {
+  padding: 30px;
+}
+
+#suit {
+  margin-left: 650px;
+  margin-top: 20px;
+  z-index: -5;
+}
