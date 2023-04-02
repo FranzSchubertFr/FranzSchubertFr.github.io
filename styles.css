@@ -50,6 +50,7 @@ body {
 
 p {
   padding: 30px;
+  word-wrap: break-word;
 }
 
 #suit {
