@@ -1,0 +1,125 @@
+@import url('https://fonts.googleapis.com/css2?family=Parisienne&display=swap');
+
+.navbar {
+  padding-left: 60px;
+  padding-right: 60px;
+}
+
+
+.col-md-4 {
+  top: 80px;
+  right: 80px;
+
+}
+
+body {
+  background-image: url("wallpaper.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  color: white;
+}
+
+#learn-more {
+  margin-top: 10px;
+  margin-left: 30px;
+  border-radius: 20px;
+  padding: 8px;
+  width: 200px;
+
+}
+
+#products {
+  text-align: center;
+  margin-top: 250px;
+  margin-left: 30px;
+  background-color: white;
+  color: black;
+  padding: 40px;
+  font-size: 80%;
+  margin-bottom: 50px;
+
+}
+
+.product-titl {
+  padding: 90px;
+}
+
+.product-info {
+  word-wrap: break-word;
+}
+
+.index_p {
+  padding: 30px;
+  word-wrap: break-word;
+}
+
+#suit {
+  margin-left: 630px;
+  margin-top: 20px;
+  z-index: -5;
+}
+
+.test_rect {
+  color: black;
+  padding: 12px;
+
+}
+.my-5 {
+  margin-top: 3rem !important;
+  margin-bottom: 3rem !important;
+}
+
+.rounded-lg {
+  border-radius: 1rem;
+}
+
+.bg-white {
+  background-color: #ffffff;
+}
+
+.rect-to-color {
+  border-radius: 20px;
+  padding: 30px;
+}
+
+
+.book-shit {
+  padding: 35px;
+}
+
+.buy-now {
+  padding-top: 10px;
+
+}
+
+.buy-no {
+  border-radius: 2rem;
+}
+
+hr {
+  background-color: black;
+  width: 65%;
+  height: 2px;
+  border: none;
+}
+
+#myPopup {
+  display: none;
+  position: fixed;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  z-index: 1;
+  background-color: white;
+  padding: 20px;
+  border: 1px solid black;
+}
+
+#closePopup {
+  margin-top: 10px;
+}
+
+#hitler {
+  height: 500px;
+  width: 850px;
+}
