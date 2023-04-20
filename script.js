@@ -6,6 +6,8 @@ const myPopup = document.getElementById("myPopup");
 learn_more.addEventListener("click", function() {
     sound.play();
     myPopup.style.display = "block";
+    sound.play();
+    sound.play();
 });
 
 closePopup.addEventListener("click", function() {
